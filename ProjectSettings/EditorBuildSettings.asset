@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartMenu.unity
+    guid: 88e1f0af3b2f4481492f1e0b4345aa16
+  - enabled: 1
+    path: Assets/Scenes/Timmy.unity
+    guid: b5a50608ef30c4e7b82ce488001ef376
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: 4ec4a88045f78411da6614ab8edee575
+  - enabled: 1
+    path: Assets/Scenes/OpMenu.unity
+    guid: 5e929b934d5cd45799c35fad538cbd89
+  - enabled: 1
+    path: Assets/Scenes/Boxing.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/TriBox1.unity
+    guid: 2b68a1361cc244864bfe8a54ae9a8f37
+  - enabled: 1
+    path: Assets/Scenes/TriBox2.unity
+    guid: 33d0e8986cf39498d99c71ed0c6f9c82
+  - enabled: 1
+    path: Assets/Scenes/TriBox3.unity
+    guid: 5771bf7aca0de4e73b7b8b9683227ceb
+  - enabled: 1
+    path: Assets/Scenes/CircBox1.unity
+    guid: 01d1a1ef491e84e95b1b29c5e9a770c8
+  - enabled: 1
+    path: Assets/Scenes/CircBox2.unity
+    guid: a56c6e537b3094cdfa008473e868ec22
+  - enabled: 1
+    path: Assets/Scenes/CircBox3.unity
+    guid: d15e7a3d5c9cb43129ac0e15a872d4b0
+  - enabled: 1
+    path: Assets/Scenes/BoxBox1.unity
+    guid: c42641ed4853840a381ca78584faf916
+  - enabled: 1
+    path: Assets/Scenes/BoxBox2.unity
+    guid: cdc1efb8410ea4909b83a13112eefa36
+  - enabled: 1
+    path: Assets/Scenes/BoxBox3.unity
+    guid: 7ae8866a8d4be4566a288064ed7ef87f
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
